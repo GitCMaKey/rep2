@@ -1,0 +1,48 @@
+{
+  "itemId" : "_MtZUgH1WEe24h9_Xqac2FQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_BrIBsHzZEe2jD4QJom7AIg",
+    "parameterList" : [ {
+      "id" : "_BriRYXzZEe2jD4QJom7AIg",
+      "name" : "Gestion_de_commande_Database"
+    }, {
+      "id" : "_BriRYnzZEe2jD4QJom7AIg",
+      "name" : "Gestion_de_commande_Password"
+    }, {
+      "id" : "_BriRY3zZEe2jD4QJom7AIg",
+      "name" : "Gestion_de_commande_Login"
+    }, {
+      "id" : "_Bri4cHzZEe2jD4QJom7AIg",
+      "name" : "Gestion_de_commande_AdditionalParams"
+    }, {
+      "id" : "_Bri4cXzZEe2jD4QJom7AIg",
+      "name" : "Gestion_de_commande_Port"
+    }, {
+      "id" : "_Bri4cnzZEe2jD4QJom7AIg",
+      "name" : "Gestion_de_commande_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_ujBBAHzbEe2jD4QJom7AIg",
+    "parameterList" : [ {
+      "id" : "_ujWYNHzbEe2jD4QJom7AIg",
+      "name" : "Entrepot_de_donnees_AdditionalParams"
+    }, {
+      "id" : "_ujWYNnzbEe2jD4QJom7AIg",
+      "name" : "Entrepot_de_donnees_Server"
+    }, {
+      "id" : "_ujWYNXzbEe2jD4QJom7AIg",
+      "name" : "Entrepot_de_donnees_Port"
+    }, {
+      "id" : "_ujWYM3zbEe2jD4QJom7AIg",
+      "name" : "Entrepot_de_donnees_Login"
+    }, {
+      "id" : "_ujWYMXzbEe2jD4QJom7AIg",
+      "name" : "Entrepot_de_donnees_Database"
+    }, {
+      "id" : "_ujWYMnzbEe2jD4QJom7AIg",
+      "name" : "Entrepot_de_donnees_Password"
+    } ]
+  } ]
+}
